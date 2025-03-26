@@ -42,7 +42,8 @@ source ~/.zshrc
 * **Login**: the shell is run as-part-of user login.
 * **Non-login**: Any other shell run by the user after logging on
 
-[ref](https://unix.stackexchange.com/a/50667)
+- [ref](https://unix.stackexchange.com/a/50667)
+- [ref](https://unix.stackexchange.com/a/435972)
 
 ---
 
@@ -165,6 +166,8 @@ tig
 tig stash
 ```
 
+[lazygit](https://github.com/jesseduffield/lazygit)
+
 [forgit](https://github.com/wfxr/forgit)
 
 ```bash
@@ -173,13 +176,13 @@ fgcb
 fgi
 ```
 
-[gti](http://r-wos.org/hacks/gti Humorous git alias)
+[gti](http://r-wos.org/hacks/gti)
 
 ---
 
 # Lightening round!
 
-ncdu
+[ncdu](https://formulae.brew.sh/formula/ncdu)
 
 [ripgrep](https://github.com/BurntSushi/ripgrep)
 
@@ -225,6 +228,11 @@ Configuration Software
 3. [zinit](https://github.com/zdharma-continuum/zinit)
 4. [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
+Shells
+
+1. [fish](https://fishshell.com/)
+2. [elvish](https://elv.sh/)
+
 ZSH Plugins
 
 1. [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
@@ -233,14 +241,10 @@ ZSH Plugins
 Command Line Tools
 
 1. [slides](https://github.com/maaslalani/slides)
-2. [lsd](https://github.com/Peltoche/lsd)
-3. [exa](https://github.com/ogham/exa)
+2. [rg](https://github.com/BurntSushi/ripgrep)
+3. [lsd](https://github.com/Peltoche/lsd)
 4. [fzf](https://github.com/junegunn/fzf)
-5. [fzf-tab](https://github.com/Aloxaf/fzf-tab)
 6. [tig](https://github.com/jonas/tig)
-7. [forgit](https://github.com/wfxr/forgit)
-8. [gti](http://r-wos.org/hacks/gti)
-9. [rg](https://github.com/BurntSushi/ripgrep)
 10. [tldr](https://github.com/dbrgn/tealdeer)
 11. [xh](https://github.com/ducaale/xh)
 12. [macOCR](https://github.com/schappim/macOCR)
